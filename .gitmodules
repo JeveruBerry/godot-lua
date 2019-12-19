@@ -1,0 +1,10 @@
+[submodule "godot_cpp"]
+	path = godot_cpp
+	url = https://github.com/jihuayu/godot_cpp
+	branch = 3.1
+
+
+[submodule "lua"]
+	path = lua
+	url = https://github.com/jihuayu/lua
+	branch = v5.3
