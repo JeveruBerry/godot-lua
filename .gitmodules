@@ -1,5 +1,5 @@
-[submodule "godot_cpp"]
-	path = godot_cpp
+[submodule "godot-cpp"]
+	path = godot-cpp
 	url = https://github.com/jihuayu/godot-cpp
 	branch = 3.1
 
